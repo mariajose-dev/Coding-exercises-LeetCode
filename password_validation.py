@@ -3,10 +3,10 @@ Write a program to check if the given password is strong. Return 1 if the passwo
 
 A strong password is one which satisfies the following conditions:
 
-It contains a mix of capital letters, small letters and digits.
-It contains minimum 8 characters.
-It contains atleast one non alphanumeric character.
-It should not contain any space.
+1. It contains a mix of capital letters, small letters and digits.
+2. It contains minimum 8 characters.
+3. It contains atleast one non alphanumeric character.
+4. It should not contain any space.
 Example:
 
 Input:
